@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\obj\Debug\loopsTasks.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\obj\Debug\loopsTasks.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\bin\Debug\loopsTasks.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\bin\Debug\loopsTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\bin\Debug\loopsTasks.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\obj\Debug\loopsTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\loopsTasks\loopsTasks\obj\Debug\loopsTasks.pdb
