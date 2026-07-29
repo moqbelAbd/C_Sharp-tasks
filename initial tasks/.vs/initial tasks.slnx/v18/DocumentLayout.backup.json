@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\New folder\\Orange Cooding Schoole\\C#\\initial tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68D192EE-33CC-4A66-9A4A-D809F6F6A975}|initial tasks\\initial tasks.csproj|s:\\new folder\\orange cooding schoole\\c#\\initial tasks\\initial tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68D192EE-33CC-4A66-9A4A-D809F6F6A975}|initial tasks\\initial tasks.csproj|solutionrelative:initial tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\New folder\\Orange Cooding Schoole\\C#\\initial tasks\\initial tasks\\Program.cs",
+              "RelativeDocumentMoniker": "initial tasks\\Program.cs",
+              "ToolTip": "S:\\New folder\\Orange Cooding Schoole\\C#\\initial tasks\\initial tasks\\Program.cs",
+              "RelativeToolTip": "initial tasks\\Program.cs",
+              "ViewState": "AgIAAP8BAAAAQGZmZmb2vxECAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T08:41:02.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
