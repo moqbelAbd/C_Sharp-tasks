@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\array Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{505B4948-CAFE-4197-8FFE-D7BE6C8C0ECF}|arrayTasks\\arrayTasks.csproj|s:\\new folder\\orange cooding schoole\\c_sharp-tasks\\array tasks\\arraytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{505B4948-CAFE-4197-8FFE-D7BE6C8C0ECF}|arrayTasks\\arrayTasks.csproj|solutionrelative:arraytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\array Tasks\\arrayTasks\\Program.cs",
+              "RelativeDocumentMoniker": "arrayTasks\\Program.cs",
+              "ToolTip": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\array Tasks\\arrayTasks\\Program.cs*",
+              "RelativeToolTip": "arrayTasks\\Program.cs*",
+              "ViewState": "AgIAAF8BAAAAyMzMzMwcwGYBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:10:11.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
