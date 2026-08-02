@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\bin\Debug\dataStructure.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\bin\Debug\dataStructure.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\bin\Debug\dataStructure.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\obj\Debug\dataStructure.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\obj\Debug\dataStructure.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\obj\Debug\dataStructure.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\dataStructure\dataStructure\obj\Debug\dataStructure.pdb
