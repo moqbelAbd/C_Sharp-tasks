@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\bin\Debug\InitialOOP.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\bin\Debug\InitialOOP.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\bin\Debug\InitialOOP.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\obj\Debug\InitialOOP.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\obj\Debug\InitialOOP.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\obj\Debug\InitialOOP.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\Initial OOP\InitialOOP\obj\Debug\InitialOOP.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\Initial OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{806810D5-7E17-4F69-9D19-746C4757AA18}|InitialOOP\\InitialOOP.csproj|s:\\new folder\\orange cooding schoole\\c_sharp-tasks\\initial oop\\initialoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806810D5-7E17-4F69-9D19-746C4757AA18}|InitialOOP\\InitialOOP.csproj|solutionrelative:initialoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\Initial OOP\\InitialOOP\\Program.cs",
+              "RelativeDocumentMoniker": "InitialOOP\\Program.cs",
+              "ToolTip": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\Initial OOP\\InitialOOP\\Program.cs",
+              "RelativeToolTip": "InitialOOP\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAMzMzMzMbwFoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T08:52:35.333Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
