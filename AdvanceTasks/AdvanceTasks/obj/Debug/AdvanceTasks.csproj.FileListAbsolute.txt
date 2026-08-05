@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\bin\Debug\AdvanceTasks.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\bin\Debug\AdvanceTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\bin\Debug\AdvanceTasks.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\obj\Debug\AdvanceTasks.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\obj\Debug\AdvanceTasks.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\obj\Debug\AdvanceTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\AdvanceTasks\AdvanceTasks\obj\Debug\AdvanceTasks.pdb

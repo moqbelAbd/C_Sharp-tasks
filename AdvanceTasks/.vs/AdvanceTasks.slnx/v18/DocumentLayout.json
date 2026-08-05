@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\AdvanceTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F57E2D3-EBF8-46AD-AE9E-D29C0334A76C}|AdvanceTasks\\AdvanceTasks.csproj|s:\\new folder\\orange cooding schoole\\c_sharp-tasks\\advancetasks\\advancetasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F57E2D3-EBF8-46AD-AE9E-D29C0334A76C}|AdvanceTasks\\AdvanceTasks.csproj|solutionrelative:advancetasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\AdvanceTasks\\AdvanceTasks\\Program.cs",
+              "RelativeDocumentMoniker": "AdvanceTasks\\Program.cs",
+              "ToolTip": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\AdvanceTasks\\AdvanceTasks\\Program.cs",
+              "RelativeToolTip": "AdvanceTasks\\Program.cs",
+              "ViewState": "AgIAABUAAAAAnJmZmZktwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T07:03:13.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
