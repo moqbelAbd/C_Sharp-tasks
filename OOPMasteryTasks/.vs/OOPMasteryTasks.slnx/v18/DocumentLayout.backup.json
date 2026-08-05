@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\OOPMasteryTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0DDDF6-B912-4890-ACC7-6AE4800011EB}|OOPMasteryTasks\\OOPMasteryTasks.csproj|s:\\new folder\\orange cooding schoole\\c_sharp-tasks\\oopmasterytasks\\oopmasterytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0DDDF6-B912-4890-ACC7-6AE4800011EB}|OOPMasteryTasks\\OOPMasteryTasks.csproj|solutionrelative:oopmasterytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\OOPMasteryTasks\\OOPMasteryTasks\\Program.cs",
+              "RelativeDocumentMoniker": "OOPMasteryTasks\\Program.cs",
+              "ToolTip": "S:\\New folder\\Orange Cooding Schoole\\C_Sharp-tasks\\OOPMasteryTasks\\OOPMasteryTasks\\Program.cs",
+              "RelativeToolTip": "OOPMasteryTasks\\Program.cs",
+              "ViewState": "AgIAANQAAADA/v////8hwNUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T13:06:11.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

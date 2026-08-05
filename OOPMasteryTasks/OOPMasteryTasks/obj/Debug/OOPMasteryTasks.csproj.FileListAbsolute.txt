@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\bin\Debug\OOPMasteryTasks.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\bin\Debug\OOPMasteryTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\bin\Debug\OOPMasteryTasks.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\obj\Debug\OOPMasteryTasks.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\obj\Debug\OOPMasteryTasks.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\obj\Debug\OOPMasteryTasks.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\OOPMasteryTasks\OOPMasteryTasks\obj\Debug\OOPMasteryTasks.pdb
