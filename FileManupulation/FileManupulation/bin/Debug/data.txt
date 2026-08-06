@@ -1,0 +1,6 @@
+- Write in a file your name, specialization, age, and a description of your life and the field in which you work.
+- You must read all the information you wrote in the file, line by line.
+- You should print the total number of characters in the file, disregarding spaces between words.
+- You should print the total number of words in the file, disregarding spaces as well.
+- Write in a file your name, specialization, age, and a description of your life and the field in which you work.
+- Write in a file your name, specialization, age, and a description of your life and the field in which you work.

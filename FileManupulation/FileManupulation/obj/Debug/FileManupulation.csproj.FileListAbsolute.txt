@@ -1,0 +1,7 @@
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\bin\Debug\FileManupulation.exe.config
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\bin\Debug\FileManupulation.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\bin\Debug\FileManupulation.pdb
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\obj\Debug\FileManupulation.csproj.AssemblyReference.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\obj\Debug\FileManupulation.csproj.CoreCompileInputs.cache
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\obj\Debug\FileManupulation.exe
+S:\New folder\Orange Cooding Schoole\C_Sharp-tasks\FileManupulation\FileManupulation\obj\Debug\FileManupulation.pdb
